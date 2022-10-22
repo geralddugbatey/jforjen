@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jforjen/static/css/main.67fe97b1.css",
+    "main.js": "/jforjen/static/js/main.a3010527.js",
+    "static/js/787.3d1736bc.chunk.js": "/jforjen/static/js/787.3d1736bc.chunk.js",
+    "index.html": "/jforjen/index.html",
+    "main.67fe97b1.css.map": "/jforjen/static/css/main.67fe97b1.css.map",
+    "main.a3010527.js.map": "/jforjen/static/js/main.a3010527.js.map",
+    "787.3d1736bc.chunk.js.map": "/jforjen/static/js/787.3d1736bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67fe97b1.css",
+    "static/js/main.a3010527.js"
+  ]
+}
